@@ -1,6 +1,7 @@
 {
   "name": "react-js-buy",
   "version": "0.1.0",
+  "homepage": "http://upcgold.github.io/react-store-compose",
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
